@@ -1,0 +1,7 @@
+Rencana resolusiku kedepan 
+1. Belajar web
+-html
+-css
+-javascript
+2. Belajar python
+3. Belajar c++
